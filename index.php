@@ -5,6 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	<button onclick="window.location.href = 'https://192.168.1.23/ca.crt';">点击我下载证书</button>
+<a href="itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/a409137197/lemon/master/lemon.plist">下载苹果IPA</a>
 </body>
 </html>
